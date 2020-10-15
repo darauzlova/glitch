@@ -1,0 +1,22 @@
+body{
+background-color: black;
+
+}
+
+.fon {
+margin-right: 15px;
+margin-left: 20px;
+width:1200px;
+height:800px;
+
+
+background-image:url(glitch.png);
+background-repeat:no-repeat;
+background-attachment:fixed;
+
+}
+.text{
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
